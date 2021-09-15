@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gabrielle.prat@alan.eu
+	name = Gabrielle Prat
